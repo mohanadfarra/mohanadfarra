@@ -79,9 +79,9 @@ Computer Systems Engineering student at MedTech (South Mediterranean University)
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| Introduction to IEEE Member & Geographic Activities (MGA) | IEEE | Sep 2026 |
-| IEEE Membership Development Overview | IEEE | Sep 2026 |
-| System Composer Onramp (MATLAB) | MathWorks | Oct 2025 |
+| [Introduction to IEEE Member & Geographic Activities (MGA)](certificates/IEEE_Intro-Member-Geographic-Activities.pdf) | IEEE | Sep 2026 |
+| [IEEE Membership Development Overview](certificates/IEEE_Membership-Development-Overview.pdf) | IEEE | Sep 2026 |
+| [System Composer Onramp (MATLAB)](certificates/MathWorks_System-Composer-Onramp.pdf) | MathWorks | Oct 2025 |
 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/verify/ONM90OPA9OK1) | IBM | Oct 2025 |
 | Lions Club Membership Certificate | Lions Club Tunis SMU | 2025 |
 | [Introduction to Object-Oriented Programming with Java](https://coursera.org/verify/TG2DKZJUL9B7) | LearnQuest | Feb 2024 |
