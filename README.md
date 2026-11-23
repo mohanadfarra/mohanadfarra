@@ -71,6 +71,7 @@ Computer Systems Engineering student at MedTech (South Mediterranean University)
 | [**DustCast**](https://github.com/mohanadfarra/dustcast-solar-forecast) | IEEE PES TGM 7.0: district-level rooftop solar forecasting for Tunisia's grid, from 266 districts up to the nation | Forecasting · Data · Dashboard |
 | [**BMO**](https://github.com/mohanadfarra/bmo-smart-vending-machine) | IoT smart vending machine with RFID, stepper-motor dispensing, QR ordering and a manager dashboard | Raspberry Pi · ESP32 · PHP · MySQL |
 | [**Heart Disease Prediction**](https://github.com/mohanadfarra/heart-disease-ml-pipeline) | ML pipeline on 1,025 patient records; Random Forest reaches 93.2 % accuracy and 97.1 % recall | Python · scikit-learn · pandas |
+| [**RentEasyTN**](https://github.com/mohanadfarra/renteasy-tn) | Startup concept (COO): student housing marketplace for Tunis with verified landlords, smart filters and auto-removal of rented listings; market study, feasibility and pitch | Startup · Business · User testing |
 | [**Chroma Clash**](https://github.com/mohanadfarra/chroma-clash) | Multiplayer card game with separated game logic, backend and UI, ready for TCP/UDP, with unit tests | Python · Tkinter · Sockets |
 
 ---
