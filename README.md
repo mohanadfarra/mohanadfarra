@@ -81,8 +81,9 @@ Computer Systems Engineering student at MedTech (South Mediterranean University)
 |---|---|---|
 | Introduction to IEEE Member & Geographic Activities (MGA) | IEEE | Sep 2026 |
 | IEEE Membership Development Overview | IEEE | Sep 2026 |
-| Lions Club Membership Certificate | Lions Club Tunis SMU | 2025 |
+| System Composer Onramp (MATLAB) | MathWorks | Oct 2025 |
 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/verify/ONM90OPA9OK1) | IBM | Oct 2025 |
+| Lions Club Membership Certificate | Lions Club Tunis SMU | 2025 |
 | [Introduction to Object-Oriented Programming with Java](https://coursera.org/verify/TG2DKZJUL9B7) | LearnQuest | Feb 2024 |
 | [Introduction to Python](https://coursera.org/verify/SECTCZ5NRUW5) | Coursera Project Network | Jan 2024 |
 | [Programming Fundamentals](https://coursera.org/verify/5KQ5A9P8T5BH) | Duke University | Nov 2023 |
